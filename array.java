@@ -1,5 +1,5 @@
 // to find the unique number of the array    
-
+// it is the comment for check the git
 import java.util.*;
 
 public class array{
